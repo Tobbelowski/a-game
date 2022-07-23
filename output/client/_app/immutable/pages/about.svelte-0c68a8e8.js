@@ -1,1 +1,0 @@
-import{S as p,i as r,s as m,k as f,a as c,b as a,n as i,f as l}from"../chunks/index-6756eaca.js";function x(u){let e,n,s;return{c(){e=f("h2"),e.textContent="About page",n=c(),s=f("div"),s.textContent="Ciao!"},m(t,o){a(t,e,o),a(t,n,o),a(t,s,o)},p:i,i,o:i,d(t){t&&l(e),t&&l(n),t&&l(s)}}}class C extends p{constructor(e){super(),r(this,e,null,x,m,{})}}export{C as default};
